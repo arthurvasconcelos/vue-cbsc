@@ -25,7 +25,7 @@ Lightweight color shader/blender/converter plugin implemented for Vue 2.
 
 ## Disclaimer
 
-The algoritmn used in this plugin was not developed by me, I am just wrapping it for Vue. <a href="https://stackoverflow.com/users/693927/pimp-trizkit" target="_blank">Pimp Trizkit</a> is the algoritmn author, for more information visit <a href="https://stackoverflow.com/a/13542669/3130385" target="_blank"><img src="stack.webp" alt="stack" style="width: 20px;"/>Programmatically Lighten or Darken a hex color (or rgb, and blend colors)</a>.
+The algoritmn used in this plugin was not developed by me, I am just wrapping it for Vue. <a href="https://stackoverflow.com/users/693927/pimp-trizkit" target="_blank">Pimp Trizkit</a> is the algoritmn author, for more information visit <a href="https://stackoverflow.com/a/13542669/3130385" target="_blank"><img src="stack.webp" alt="stack" width="20px" />Programmatically Lighten or Darken a hex color (or rgb, and blend colors)</a>.
 
 ## Requirements
 
