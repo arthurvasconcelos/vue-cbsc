@@ -47,7 +47,7 @@ import VueCBSC from 'vue-cbsc';
 Vue.use(VueCBSC);
 ```
 
-## Usage
+## Usage [![Edit Vue CBSC Example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/xr02lz040w)
 
 ```javascript
 new Vue({

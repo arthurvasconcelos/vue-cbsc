@@ -150,7 +150,6 @@ export default function plugin (Vue, options = {}) {
                 return this.$options._shadeBlendConvert(amount * -1, color);
             },
             lighten(color, amount) {
-                console.log('ssss');
                 this.$options._validadeNumber(amount, 0, 1, 'Amount');
                 this.$options._validadeString(color, false, 'Color');
                 return this.$options._shadeBlendConvert(amount, color);
