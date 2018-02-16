@@ -1,6 +1,6 @@
 {
   "name": "vue-cbsc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight color shader/blender/converter plugin implemented for Vue 2.",
   "main": "dist/vue-cbsc.js",
   "files": [
