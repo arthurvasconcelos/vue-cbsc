@@ -4,7 +4,10 @@
  * by Arthur Vasconcelos.
  */
 
-export default function plugin (Vue, options = {}) {
+export default function plugin (Vue) {
+    // ugly fix for making this IE 11 compatible
+    const options = arguments.length > 1 && arguments[1] !== undefined ? arguments[1] : {};
+    
     if (options && options.constructor !== Object) throw 'Options must be a object';
 
     const version = (Vue.version && Number(Vue.version.split('.')[0])) || -1;
