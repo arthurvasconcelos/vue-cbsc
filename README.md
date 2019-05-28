@@ -96,6 +96,6 @@ new Vue({
 ## Contributing
 - vue-cbsc Issues: https://github.com/arthurvasconcelos/vue-cbsc/issues
 
-[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com) [![Greenkeeper badge](https://badges.greenkeeper.io/arthurvasconcelos/vue-cbsc.svg)](https://greenkeeper.io/)
 
 ![Live Long and Prosper](http://i.imgur.com/wtGmSKO.png)
